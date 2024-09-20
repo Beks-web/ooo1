@@ -1,0 +1,22 @@
+.general {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.recipe {
+  background: skyblue;
+  border-radius: 10px;
+  padding: 30px;
+}
+.header img {
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+.nut table {
+  width: 600px;
+}
+body {
+  background-color: bisque;
+}
